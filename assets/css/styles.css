@@ -1,0 +1,63 @@
+@media (min-width: 768px) {
+  .d-margin-menu {
+    margin-right: 30px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .d-margin-service {
+    padding-top: 160px;
+    padding-bottom: 80px;
+    border-radius: 20px;
+  }
+}
+
+.navbar-pad {
+  padding: 25px;
+}
+
+@media (min-width: 1200px) {
+  .d-margin-navbar {
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+}
+
+@media (min-width: 768px) {
+  .d-contact-bt {
+    font-weight: 500;
+    border: 1px solid #E1E1E1;
+    border-radius: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .m-margin-menu {
+    margin-top: 15px;
+    margin-bottom: -15px;
+    /*text-align: center;*/
+    border-top: 1px solid rgba(0,0,0,0.05);
+    padding: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .m-shadow-menu {
+    box-shadow: 0px -1px 3px rgba(0,0,0,0.05);
+  }
+}
+
+@media (max-width: 768px) {
+  .m-column-margin {
+    margin-top: 25px;
+  }
+}
+
+@media (max-width: 768px) {
+  .m-div-margin {
+    padding-bottom: 80px;
+  }
+}
+
