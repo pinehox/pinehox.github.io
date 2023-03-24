@@ -4,7 +4,7 @@
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1080px) {
   .d-margin-service {
     padding-top: 160px;
     padding-bottom: 80px;
@@ -61,7 +61,7 @@
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1080px) {
   .m-img-flex {
     flex-direction: column;
   }
