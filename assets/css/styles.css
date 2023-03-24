@@ -49,7 +49,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
   .m-column-margin {
     margin-top: 25px;
   }
@@ -58,6 +58,26 @@
 @media (max-width: 768px) {
   .m-div-margin {
     padding-bottom: 80px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .m-img-flex {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 1200px) {
+  .m-text-margin {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 1080px) {
+  .m-card-flex {
+    flex-direction: column;
   }
 }
 
