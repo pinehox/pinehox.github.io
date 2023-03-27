@@ -12,6 +12,12 @@
   }
 }
 
+@media (min-width: 1080px) {
+  .d-pg-padding {
+    padding-top: 50px;
+  }
+}
+
 .navbar-pad {
   padding: 25px;
 }
@@ -63,6 +69,12 @@
 
 @media (max-width: 1080px) {
   .m-img-flex {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px) {
+  .m-form-flex {
     flex-direction: column;
   }
 }
